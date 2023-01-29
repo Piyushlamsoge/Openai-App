@@ -1,0 +1,3 @@
+Openai API Key
+
+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
